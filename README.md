@@ -28,7 +28,7 @@ Features
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/escape-road.git
+git clone https://github.com/muhammadfarhan136/Escape-Road---Web-Browser-Car-Game
 ```
 2. Open the `.html` file in any modern web browser (Chrome, Firefox, or Edge).
 3. Use the **Spacebar** or **Click** to jump/interact with the game.
